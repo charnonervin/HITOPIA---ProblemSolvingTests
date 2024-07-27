@@ -1,0 +1,7 @@
+C:\Users\charno.simanjuntak\Source\Repos\Weighted Strings\bin\Debug\Weighted Strings.exe.config
+C:\Users\charno.simanjuntak\Source\Repos\Weighted Strings\bin\Debug\Weighted Strings.exe
+C:\Users\charno.simanjuntak\Source\Repos\Weighted Strings\bin\Debug\Weighted Strings.pdb
+C:\Users\charno.simanjuntak\Source\Repos\Weighted Strings\obj\Debug\Weighted Strings.csproj.AssemblyReference.cache
+C:\Users\charno.simanjuntak\Source\Repos\Weighted Strings\obj\Debug\Weighted Strings.csproj.CoreCompileInputs.cache
+C:\Users\charno.simanjuntak\Source\Repos\Weighted Strings\obj\Debug\Weighted Strings.exe
+C:\Users\charno.simanjuntak\Source\Repos\Weighted Strings\obj\Debug\Weighted Strings.pdb

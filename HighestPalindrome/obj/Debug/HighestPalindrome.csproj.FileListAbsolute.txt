@@ -1,0 +1,7 @@
+C:\Users\charno.simanjuntak\Source\Repos\HighestPalindrome\bin\Debug\HighestPalindrome.exe.config
+C:\Users\charno.simanjuntak\Source\Repos\HighestPalindrome\bin\Debug\HighestPalindrome.exe
+C:\Users\charno.simanjuntak\Source\Repos\HighestPalindrome\bin\Debug\HighestPalindrome.pdb
+C:\Users\charno.simanjuntak\Source\Repos\HighestPalindrome\obj\Debug\HighestPalindrome.csproj.AssemblyReference.cache
+C:\Users\charno.simanjuntak\Source\Repos\HighestPalindrome\obj\Debug\HighestPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\charno.simanjuntak\Source\Repos\HighestPalindrome\obj\Debug\HighestPalindrome.exe
+C:\Users\charno.simanjuntak\Source\Repos\HighestPalindrome\obj\Debug\HighestPalindrome.pdb
