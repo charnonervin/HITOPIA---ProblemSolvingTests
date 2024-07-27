@@ -1,0 +1,7 @@
+C:\Users\charno.simanjuntak\Source\Repos\BalancedBracket\bin\Debug\BalancedBracket.exe.config
+C:\Users\charno.simanjuntak\Source\Repos\BalancedBracket\bin\Debug\BalancedBracket.exe
+C:\Users\charno.simanjuntak\Source\Repos\BalancedBracket\bin\Debug\BalancedBracket.pdb
+C:\Users\charno.simanjuntak\Source\Repos\BalancedBracket\obj\Debug\BalancedBracket.csproj.AssemblyReference.cache
+C:\Users\charno.simanjuntak\Source\Repos\BalancedBracket\obj\Debug\BalancedBracket.csproj.CoreCompileInputs.cache
+C:\Users\charno.simanjuntak\Source\Repos\BalancedBracket\obj\Debug\BalancedBracket.exe
+C:\Users\charno.simanjuntak\Source\Repos\BalancedBracket\obj\Debug\BalancedBracket.pdb
